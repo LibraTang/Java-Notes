@@ -1,0 +1,49 @@
+“类”可以理解为常规意义，就是一种规范。类里的每一个对象都要遵循这个规范。
+
+对象变量是对象的管理者：VendingMachine vm = new VendingMachine()。这里vm是这个对象的“管理者”。
+
+本地变量：函数内部。生存期和作用域都是函数内部。
+成员变量：对象的生存期，作用域在类内部的成员函数。
+
+类定义了对象中所具有的变量，即成员变量。
+
+每个对象有不同的变量值。
+
+函数是通过对象来调用的：vm.insertMoney()
+
+this是类中对象的管理者，是成员函数的一个特殊的固有的本地变量，它表达了这个函数的那个变量。举个例子：
+public class vendingmachine {
+	int price = 80;
+	
+	void setPrice(int price) {
+		price = this.price;
+	}
+	
+	public static void main(String[] args) {
+			// TODO Auto-generated method stub
+			vendingmachine vm = new vendingmachine();
+			vm.setPrice(20);
+	}
+此时 price的值为80，this.price指的是成员变量中的price。
+
+成员函数在外部被调用时，必须通过对象调用。在内部调用时，只需函数名即可。
+
+初始化：
+成员变量会自动初始化（初始化为0，null，false等）。
+本地变量必须手动初始化。
+成员变量初始化的方式：
+	• int price;
+	• int price = 80;
+	• int balance = f();(这个函数可以return一个值）
+
+构造函数：（在构造时调用的函数，函数名与类名相同）
+没有返回类型，可以有参数。
+调用构造函数时先去函数外面。
+举个例子：
+vendingmachine(){
+		total = 0;
+	}
+	
+vendingmachine(int price){
+		System.out.println(price);
+	}
