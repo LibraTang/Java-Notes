@@ -1,5 +1,3 @@
-# equals()和hashCode()的关系
-
 简单来说：
 
 * 若两个对象相等（equal），则必须拥有相同的哈希码（hash code）
