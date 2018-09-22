@@ -37,7 +37,7 @@ Exception in thread "main" java.lang.ArrayStoreException: Test$P
 
 在内存中，pp和ss都指向了同样的地址
 
-![引用别名机制]()
+![引用别名机制](https://github.com/LibraTang/Pics/blob/master/Java-Notes/%E5%BC%95%E7%94%A8%E5%88%AB%E5%90%8D.jfif)
 
 Java在运行时才处理别名引用，在程序运行过程中，虚拟机发现数组pp的第一个元素是S类型的对象,而不是P类型的。
 
