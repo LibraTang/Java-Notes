@@ -64,7 +64,7 @@
 * [equals()和hashCode()](https://github.com/LibraTang/Java-Notes/blob/master/%E8%BF%9B%E9%98%B6/equals()%E5%92%8ChashCode().md)
 * [反射](https://github.com/LibraTang/Java-Notes/blob/master/%E8%BF%9B%E9%98%B6/%E5%8F%8D%E5%B0%84.md)
 * [泛型](https://github.com/LibraTang/Java-Notes/blob/master/%E8%BF%9B%E9%98%B6/%E6%B3%9B%E5%9E%8B.md)
-* [序列化](https://github.com/LibraTang/Java-Notes/blob/master/%E8%BF%9B%E9%98%B6/%E5%BA%8F%E5%88%97%E5%8C%96%E7%AE%80%E5%8D%95%E4%BA%86%E8%A7%A3.md)
+* [序列化&反序列化](https://github.com/LibraTang/Java-Notes/blob/master/%E8%BF%9B%E9%98%B6/%E5%BA%8F%E5%88%97%E5%8C%96%26%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md)
 * [JVM运行时数据区](https://github.com/LibraTang/Java-Notes/blob/master/%E8%BF%9B%E9%98%B6/JVM%E8%BF%90%E8%A1%8C%E6%97%B6%E6%95%B0%E6%8D%AE%E5%8C%BA.md)
 * [容器源码分析](https://github.com/LibraTang/Java-Notes/blob/master/%E8%BF%9B%E9%98%B6/%E5%AE%B9%E5%99%A8%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
 
