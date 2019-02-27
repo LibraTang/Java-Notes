@@ -67,4 +67,5 @@
 * [序列化&反序列化](https://github.com/LibraTang/Java-Notes/blob/master/%E8%BF%9B%E9%98%B6/%E5%BA%8F%E5%88%97%E5%8C%96%26%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md)
 * [JVM运行时数据区](https://github.com/LibraTang/Java-Notes/blob/master/%E8%BF%9B%E9%98%B6/JVM%E8%BF%90%E8%A1%8C%E6%97%B6%E6%95%B0%E6%8D%AE%E5%8C%BA.md)
 * [容器源码分析](https://github.com/LibraTang/Java-Notes/blob/master/%E8%BF%9B%E9%98%B6/%E5%AE%B9%E5%99%A8%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
+* [内部类](https://github.com/LibraTang/Java-Notes/blob/master/%E8%BF%9B%E9%98%B6/%E5%86%85%E9%83%A8%E7%B1%BB.md)
 
